@@ -10,3 +10,5 @@ Clicker2D, Platformer3D - https://mega.nz/folder/EXlWWbpY#H2Zlje2j0Bu13tvId_JMYg
 Светофор - https://sketchfab.com/3d-models/fb7e1c7929da480e83aac8c454024a18 (скачивать gltf файл и импортировать в блендер через gltf)
 
 Подарочная коробка - https://sketchfab.com/3d-models/gift-21e5615a6a9d468f88cb6bfaf853322c (скачивать gltf файл и импортировать в блендер через gltf)
+
+Log:Pass для sketchFab - https://mega.nz/file/xL930DjZ#OrsfeC-nTSY4rBerPCZSMSaPO2LpmKx7F8XzAWeAZDI
