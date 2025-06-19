@@ -2,7 +2,9 @@ API Login/Register и по-мелочи - https://mega.nz/file/oeVzRLIA#Aw61nXqS
 
 Clicker2D, Platformer3D - https://mega.nz/folder/EXlWWbpY#H2Zlje2j0Bu13tvId_JMYg
 
+
 Если закончился лимит на загрузку файлов, используйте этот сервис(расширение для Chrome) - https://chromewebstore.google.com/detail/hideme-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-%D0%B4%D0%BB%D1%8F-chrome/ohjocgmpmlfahafbipehkhbaacoemojp
+
 
 
 Кубик Рубика - https://sketchfab.com/3d-models/lowpoly-rubik-cube-low-poly-painted-62fd9e1669f341448aa9d53f030f561c (скачивать gltf файл и импортировать в блендер через gltf)
