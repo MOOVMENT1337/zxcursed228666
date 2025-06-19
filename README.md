@@ -6,5 +6,7 @@ Clicker2D, Platformer3D - https://mega.nz/folder/EXlWWbpY#H2Zlje2j0Bu13tvId_JMYg
 
 
 Кубик Рубика - https://sketchfab.com/3d-models/lowpoly-rubik-cube-low-poly-painted-62fd9e1669f341448aa9d53f030f561c (скачивать gltf файл и импортировать в блендер через gltf)
+
 Светофор - https://sketchfab.com/3d-models/fb7e1c7929da480e83aac8c454024a18 (скачивать gltf файл и импортировать в блендер через gltf)
+
 Подарочная коробка - https://sketchfab.com/3d-models/gift-21e5615a6a9d468f88cb6bfaf853322c (скачивать gltf файл и импортировать в блендер через gltf)
