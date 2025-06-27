@@ -1,5 +1,5 @@
 API Login/Register и по-мелочи - https://mega.nz/file/oeVzRLIA#Aw61nXqSkzMh-fUKC1NgCgWt_EoQPjuu4_7lkNy3dag
-
+========================================================================================================================================================
 Clicker2D, Platformer3D - https://mega.nz/folder/EXlWWbpY#H2Zlje2j0Bu13tvId_JMYg
 
 
@@ -14,3 +14,5 @@ Clicker2D, Platformer3D - https://mega.nz/folder/EXlWWbpY#H2Zlje2j0Bu13tvId_JMYg
 Подарочная коробка - https://sketchfab.com/3d-models/gift-21e5615a6a9d468f88cb6bfaf853322c (скачивать gltf файл и импортировать в блендер через gltf)
 
 Log:Pass для sketchFab - https://mega.nz/file/xL930DjZ#OrsfeC-nTSY4rBerPCZSMSaPO2LpmKx7F8XzAWeAZDI
+
+Верстка HTML, CSS и JS - https://gitflic.ru/project/moovment/zxc228666
